@@ -14,7 +14,7 @@
         macrocaps: macrocaps {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&mt CAPSLOCK LGUI>;
+            bindings = <&mt LGUI CAPS>;
             label = "MACROCAPS";
             tap-ms = <200>;
         };
