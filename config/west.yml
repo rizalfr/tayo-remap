@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: rizalfr
-      revision: core/zephyr-v3.5
+      revision: jaykeeb
       import: app/west.yml
   self:
     path: config
